@@ -27,7 +27,7 @@ If you were using rails best practices (which we know you were) then you also su
 - a link_to ActionView helper
 - route helpers for your links
 - ERB Tags to execute Ruby code in your HTML
- F**K Yay! 💯
+-  F**K Yay! 💯
 
 ## Update & Delete 🗑
 After a little celebration, your manager comes up to you and asks if you can implement some more features. Eager to make your application bigger and better, you say yes. Here are some more deliverables that your manager wants you to build out:
