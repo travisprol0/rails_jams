@@ -14,4 +14,5 @@ puts '...Creating new Artists'
   Artist.create(name: Faker::FunnyName.name , age: rand(1..100), bio: Faker::Hipster.sentence)
 end
 
+
 puts "File has been seeded! 🍀"
